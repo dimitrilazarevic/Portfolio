@@ -1,0 +1,7 @@
+<p>Né avec un clavier entre les mains, Dimitri Lazarevic a toujours eu le goût du code et du défi. Dès son plus jeune âge, il trifouillait dans les entrailles de vieux ordinateurs pour en comprendre le fonctionnement. Ce qui n’était au départ qu’une curiosité est vite devenu une passion, puis une vocation.
+
+    Autodidacte passionné, Dimitri se forme très tôt aux langages du web et des systèmes, jonglant avec JavaScript, Python, PHP ou encore Go comme un chef d’orchestre devant son orchestre symphonique. Son profil fullstack n’est pas un simple badge : c’est une réelle capacité à concevoir une architecture complète, du back-end robuste à une interface utilisateur élégante et fluide.
+    
+    Connu pour son efficacité, sa rigueur et son sens du détail, il s’est rapidement imposé comme une référence dans les milieux tech exigeants. Il a contribué à de nombreux projets, allant de startups ambitieuses à des systèmes complexes à haute disponibilité. Son approche mêle vision produit, excellence technique et un soupçon de folie créative.
+    
+    Mais derrière le développeur se cache un être humain profondément curieux, toujours en quête d’apprentissage, d’innovation et de sens. Pour Dimitri, coder n’est pas seulement un métier — c’est un art de vivre.</p>
