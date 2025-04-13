@@ -31,14 +31,15 @@ body{
 }
 
 h1{
-    font-size: 4rem;
+    font-size: clamp(2rem,4vw,4vw);
     font-weight: 600;
-    line-height: 4.3rem;
+    line-height: clamp(2.2rem,4.5vw,4.5vw);
 }
 
 h2{
-    font-size: 3rem;
+    font-size: clamp(1.7rem,3vw,3vw);
     font-weight: 500;
+    line-height: clamp(2rem,3.3vw,3.3vw);
 }
 
 .subtitle{

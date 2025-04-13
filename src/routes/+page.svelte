@@ -7,7 +7,7 @@
 
     #landing-page-main-info-container{
         width: 50vw;
-        margin: 40vh 30vw;
+        margin: 35vh 30vw 0;
     }
 
 </style>
