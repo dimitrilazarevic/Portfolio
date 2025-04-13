@@ -1,3 +1,13 @@
-<h1>Dimitri Lazarevic</h1>
-<h2>Développeur fullstack de haute volée</h2>
-<p>Découvrez ma <a href="./about">biographie</a></p>
+<div id="landing-page-main-info-container">
+    <h1>Dimitri Lazarevic révolutionne vos outils numériques</h1>
+    <h2 class="subtitle"><a href="./about">Découvrez mes services</a></h2>
+</div>
+
+<style>
+
+    #landing-page-main-info-container{
+        width: 50vw;
+        margin: 40vh 30vw;
+    }
+
+</style>

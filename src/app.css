@@ -1,3 +1,51 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/forms';
 @plugin '@tailwindcss/typography';
+
+@font-face {
+    font-family: "space-grotesk";
+    src: url("/fonts/Space_Grotesk/SpaceGrotesk-VariableFont_wght.ttf");
+}
+
+:root{
+    /*Color palette*/
+    --eerie-black: rgba(24, 24, 25, 1);
+    --celadon: rgba(153, 228, 187, 1);
+    --silver: rgb(190, 197, 192);
+    --dark-silver: rgb(108, 110, 108);
+
+    /*Spacing*/
+    --xxs-spacing:.25rem;
+    --xs-spacing:.5rem;
+    --s-spacing:.75rem;
+    --m-spacing:1rem;
+    --l-spacing:1.25rem;
+    --xl-spacing:1.75rem;
+    --xxl-spacing:2.5rem;
+}
+
+body{
+    font-family: "space-grotesk";
+    background-color: var(--eerie-black);
+    color: var(--celadon);
+}
+
+h1{
+    font-size: 4rem;
+    font-weight: 600;
+    line-height: 4.3rem;
+}
+
+h2{
+    font-size: 3rem;
+    font-weight: 500;
+}
+
+.subtitle{
+    color: var(--silver);
+}
+
+p,ul{
+    color: var(--silver);
+    font-size: 1.1rem;
+}
